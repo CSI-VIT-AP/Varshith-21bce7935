@@ -2,7 +2,7 @@ h1{
     color: skyblue;
     text-align: center;
     font-family: 'Great Vibes', cursive;
-    padding-top: 200px;
+    padding-top: 180px;
     font-size: 600%;
     margin: 0px;
 }
@@ -14,7 +14,7 @@ p{
     background-image: url("https://img.freepik.com/free-photo/hand-painted-watercolor-background-with-sky-clouds-shape_24972-1095.jpg?size=626&ext=jpg");
     background-size: cover;
     width: 100%;
-    height: 45em;
+    height: 50em;
     margin: 0px;
 }
 body{
@@ -26,11 +26,11 @@ body{
 }
 .top{
     text-align: center;
-    padding-top: 80px;
+    padding-top: 70px;
 }
 .top1{
     text-align: center;
-    padding-top: 2.8rem;
+    padding-top: 2.5rem;
 }
 h2{
     text-align: center;
@@ -67,7 +67,8 @@ h3{
 .edu{
     border-radius: 50%;
     display: block;
-    float: right;
+    float: left;
+    margin-left: 3.5em;
 }
 .edu{
     width: 16%;
@@ -80,21 +81,23 @@ ul{
     margin-left: 4em;
 }
 .volley{
-    float: right;
+    float: left;
     border-radius: 50%;
-    margin-right: 4em;
-    width: 15%;
+    margin-right: 8em;
+    width: 18%;
+    margin-left: 6em;
 }
 .volley1{
     margin-left: 4em;
 }
 .top2{
     margin-left: 4em;
+    margin-right: 1rem;
 }
 .tv{
     border-radius: 50%;
     float: left;
-    margin-right: 3.5em;
+    margin-right: 9em;
     margin-left: 3.5em;
     width: 20%;
 }
@@ -132,4 +135,3 @@ h3{
     height: 7em;
     text-align: center;
 }
-
