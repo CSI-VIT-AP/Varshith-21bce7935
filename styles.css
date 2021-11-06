@@ -1,0 +1,134 @@
+h1{
+    color: skyblue;
+    text-align: center;
+    font-family: 'Great Vibes', cursive;
+    padding-top: 200px;
+    font-size: 600%;
+    margin: 0px;
+}
+p{
+    font-size: 200%;
+    color: slategrey;
+}
+.div1{
+    background-image: url("https://img.freepik.com/free-photo/hand-painted-watercolor-background-with-sky-clouds-shape_24972-1095.jpg?size=626&ext=jpg");
+    background-size: cover;
+    width: 100%;
+    height: 45em;
+    margin: 0px;
+}
+body{
+    margin: 0px;
+    background-image: url("images/Screenshot\ 2021-11-04\ at\ 8.14.22\ PM.png 2021-11-04\ at\ 8.14.22\ PM.png");
+    background-size: cover;
+    width: 100%;
+    height: auto;
+}
+.top{
+    text-align: center;
+    padding-top: 80px;
+}
+.top1{
+    text-align: center;
+    padding-top: 2.8rem;
+}
+h2{
+    text-align: center;
+    color: #5cb6aa; 
+    font-size: 250%;
+    margin-bottom: 3em;  
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: rgb(216, 197, 216);
+    border-width: 7px;
+    width: 7%;
+    padding-bottom: 10px;
+    margin-top: 3em;
+}
+.code{
+    display: block;
+    border-radius: 50%;
+    margin-right: 3.5em;
+    margin-left: 3.5em;
+    width: 25%;
+    float: left;
+}
+.top2{
+    line-height: 2;
+    font-size: 150%;
+    color: black;
+}
+h3{
+    font-size: 200%;
+    color: #5cb6aa; 
+}
+.edu{
+    border-radius: 50%;
+    display: block;
+    float: right;
+}
+.edu{
+    width: 16%;
+    margin-right: 6.5em;
+}
+ul{
+    font-size: 150%;
+    color: black;
+    line-height: 3;
+    margin-left: 4em;
+}
+.volley{
+    float: right;
+    border-radius: 50%;
+    margin-right: 4em;
+    width: 15%;
+}
+.volley1{
+    margin-left: 4em;
+}
+.top2{
+    margin-left: 4em;
+}
+.tv{
+    border-radius: 50%;
+    float: left;
+    margin-right: 3.5em;
+    margin-left: 3.5em;
+    width: 23%;
+}
+a{
+    text-decoration: none;
+}
+h2{
+    margin-bottom: 3rem;
+}
+h3{
+    margin-bottom: 20px;
+}
+.skill{
+    padding-bottom: 2rem;
+}
+.div6{
+    display: inline-block;
+    margin-right: 2rem;
+    margin-left: 2rem;
+    margin-top: 1.7rem;
+}
+.div7{
+    display: inline-block;
+    margin-right: 2rem;
+    margin-left: 2rem;
+    margin-top: 1.7rem;
+}
+.div8{
+    display: inline-block;
+    margin-right: 2rem;
+    margin-left: 2rem;
+    margin-top: 1.7rem;
+}
+.div9{
+    height: 7em;
+    text-align: center;
+}
